@@ -1,3 +1,8 @@
+---
+title: Banana Berry Fritter
+parent: Recipes
+layout: default
+---
 Under 15 mins
 
 **DOUBLE**

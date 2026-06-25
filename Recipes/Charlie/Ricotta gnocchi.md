@@ -1,3 +1,8 @@
+---
+title: Ricotta gnocchi
+parent: Recipes
+layout: default
+---
 Under 15 mins
 
 **Ingredients**

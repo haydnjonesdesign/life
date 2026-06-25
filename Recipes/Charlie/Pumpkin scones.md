@@ -1,3 +1,8 @@
+---
+title: Pumpkin scones
+parent: Recipes
+layout: default
+---
 **Ingredients**
 - 1 cup wholemeal plain flour
 - ¼ cup rolled oats

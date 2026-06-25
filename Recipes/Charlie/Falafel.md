@@ -1,3 +1,8 @@
+---
+title: Falafel
+parent: Recipes
+layout: default
+---
 Under 30 mins
 
 This recipe uses tinned chickpeas and makes a super easy, baby-friendly version of traditional falafel. Serve them as a #samefoodsametime meal in [wraps](https://babymealtimes.com.au/how-to-choose/wraps/), salad bowls, or shaped into burger patties (see note). Makes about 12 falafels. 

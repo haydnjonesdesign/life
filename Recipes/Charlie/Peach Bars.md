@@ -1,3 +1,8 @@
+---
+title: Peach Bars
+parent: Recipes
+layout: default
+---
 Under 30 mins
 
 **Ingredients**

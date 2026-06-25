@@ -1,3 +1,8 @@
+---
+title: SUBO Quick strawberry yoghurt
+parent: Recipes
+layout: default
+---
 Yoghurt is often a quick and enjoyable staple food for many children. Instead of purchasing expensive yoghurt pouches, often with added sugar, this recipe uses natural sugars found in a serve of fruit (with the added benefit of fibre, vitamins like vitamin C and minerals like potassium).
 
 Difficulty: Easy | Serves: 2 Subo bottles | Prep: 5 mins

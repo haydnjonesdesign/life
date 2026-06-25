@@ -1,3 +1,8 @@
+---
+title: Savoury muffins
+parent: Recipes
+layout: default
+---
 Under 30 mins
 
 **Ingredients**

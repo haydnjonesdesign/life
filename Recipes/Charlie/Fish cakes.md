@@ -1,3 +1,8 @@
+---
+title: Fish cakes
+parent: Recipes
+layout: default
+---
 Under 30 mins
 
 Makes about 9 so double recipe to make a bigger batch

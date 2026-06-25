@@ -1,3 +1,8 @@
+---
+title: Pike lets
+parent: Recipes
+layout: default
+---
 Under 15 mins
 
 **Ingredients**

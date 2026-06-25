@@ -1,3 +1,8 @@
+---
+title: Chia Pudding
+parent: Recipes
+layout: default
+---
 Ingredients
 - 100 g banana _or 1 large_
 - 100 g (approx 2 cups when doubled) mango flesh (or other fruit/berries) _fresh or frozen_

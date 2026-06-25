@@ -1,3 +1,8 @@
+---
+title: Blueberry scones
+parent: Recipes
+layout: default
+---
 Under 30 mins
 
 Scones are easier to make than you might think. This blueberry scone recipe will be a family favourite for years to come.

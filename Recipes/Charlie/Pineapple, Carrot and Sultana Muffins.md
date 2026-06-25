@@ -1,3 +1,8 @@
+---
+title: Pineapple, Carrot and Sultana Muffins
+parent: Recipes
+layout: default
+---
 Under 30 mins
 
 These muffins are made without egg. They’re easy to make with pantry staples and a great option for babies with egg allergy.

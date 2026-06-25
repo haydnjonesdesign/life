@@ -1,3 +1,8 @@
+---
+title: SUBO Berri nice smoothie
+parent: Recipes
+layout: default
+---
 The rich source of antioxidants from berries combined with potassium-rich coconut water and bananas makes this recipe not only delicious but also hydrating. Potassium is an important electrolyte and trace mineral required to regulate fluid balance.  
   
 Difficulty: Easy | Serves: 1 Subo bottle | Prep: 5 mins   

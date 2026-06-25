@@ -1,3 +1,8 @@
+---
+title: Pumpkin bread
+parent: Recipes
+layout: default
+---
 **Ingredients**
 - 1 cup pumpkin _chopped into cubes_
 - ⅓ cup light flavoured oil _olive, canola or vegetable oil_

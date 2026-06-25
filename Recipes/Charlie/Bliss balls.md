@@ -1,3 +1,8 @@
+---
+title: Bliss balls
+parent: Recipes
+layout: default
+---
 These bliss balls are a delicious snack for your family and can be a great #samefoodsametime option. The texture is suitable for babies when broken into small pieces, from level C onwards.
 
 **Ingredients**
