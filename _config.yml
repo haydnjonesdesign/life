@@ -6,3 +6,6 @@ url: https://github.com/haydnjonesdesign/life
 
 aux_links:
   Repository: https://github.com/haydnjonesdesign/life
+
+plugins:
+  - jekyll-default-layout
