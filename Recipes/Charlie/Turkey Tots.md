@@ -2,7 +2,7 @@
 title: Turkey Tots
 layout: default  
 nav_order: 2  
-parent: recipe-index
+parent: Recipes
 ---
 ## Ingredients
 - Abc
