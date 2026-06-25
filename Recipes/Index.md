@@ -1,4 +1,4 @@
-title: Recipe Index
+title: recipe-index
 layout: default  
 nav_order: 2  
 parent: overview
