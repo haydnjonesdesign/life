@@ -1,6 +1,7 @@
 ---
 title: Turkey Tots
 parent: Recipes
+layout: default
 ---
 ## Ingredients
 - Abc

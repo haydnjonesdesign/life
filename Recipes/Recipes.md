@@ -1,6 +1,7 @@
 ---
 title: Recipes
 parent: Overview
+layout: default
 ---
-[[Turkey Tots]]
-[[Beef Burgers]]
+- [[Turkey Tots]]
+- [[Beef Burgers]]
