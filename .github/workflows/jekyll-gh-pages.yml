@@ -33,7 +33,8 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '4.0.4' # Not needed with a .ruby-version file
+          ruby-version: '3.5.0' # Not needed with a .ruby-version file
+        run: bundle
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Build with Jekyll
