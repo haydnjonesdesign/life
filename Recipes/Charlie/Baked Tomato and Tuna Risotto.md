@@ -3,6 +3,8 @@ title: Baked Tomato and Tuna Risotto
 parent: Recipes
 layout: default
 ---
+# Baked Tomato and Tuna Risotto
+
 > One Meal, Three Ways
 
 **Serves:** 2 adults, 2 toddlers, 2 babies

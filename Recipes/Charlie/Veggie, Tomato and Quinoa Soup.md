@@ -3,7 +3,6 @@ title: Veggie, Tomato and Quinoa Soup
 parent: Recipes
 layout: default
 ---
-
 # Veggie, Tomato and Quinoa Soup
 
 **Serves:** 6

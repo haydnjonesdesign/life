@@ -4,8 +4,9 @@ parent: Recipes
 layout: default
 ---
 
-SERVES 4
+# Tuna Mornay
 
+SERVES 4
 ## Ingredients
 1 tablespoon extra-virgin olive oil
 1 onion (brown or red, no one is judging), chopped

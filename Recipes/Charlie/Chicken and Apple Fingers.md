@@ -3,7 +3,6 @@ title: Chicken and Apple Fingers
 parent: Recipes
 layout: default
 ---
-
 # Chicken and Apple Fingers
 
 **Makes:** 10

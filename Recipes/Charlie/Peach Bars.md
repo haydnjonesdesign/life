@@ -3,6 +3,8 @@ title: Peach Bars
 parent: Recipes
 layout: default
 ---
+# Peach Bars
+
 Under 30 mins
 
 **Ingredients**

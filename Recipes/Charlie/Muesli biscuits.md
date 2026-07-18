@@ -3,6 +3,8 @@ title: Muesli biscuits
 parent: Recipes
 layout: default
 ---
+# Muesli biscuits
+
 **Ingredients**
 - 1 1/2 cup rolled oats 
 - 2 tsp cinnamon, _ground_

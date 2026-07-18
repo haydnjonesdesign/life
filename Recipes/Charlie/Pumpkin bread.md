@@ -3,6 +3,7 @@ title: Pumpkin bread
 parent: Recipes
 layout: default
 ---
+# Pumpkin bread
 
 **Ingredients**
 - 1 cup pumpkin _chopped into cubes_

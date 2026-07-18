@@ -3,7 +3,6 @@ title: Chicken and Zucchini Nuggets
 parent: Recipes
 layout: default
 ---
-
 # Chicken and Zucchini Nuggets
 
 **Makes:** 25–30

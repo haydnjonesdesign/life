@@ -1,3 +1,12 @@
+---
+title: Zucchini fritters
+parent: Recipes
+layout: default
+---
+# Zucchini fritters
+
+==DOUBLE==
+
 **Ingredients**
 - 1 cup self-raising flour
 - ½ tsp baking powder

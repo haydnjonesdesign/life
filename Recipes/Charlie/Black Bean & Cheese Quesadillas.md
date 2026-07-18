@@ -3,6 +3,8 @@ title: Black Bean & Cheese Quesadilla
 parent: Recipes
 layout: default
 ---
+# Black Bean & Cheese Quesadillas
+
 Under 15 mins
 
 These quick and easy quesadillas make a great #samefoodsametime meal to share with your baby.

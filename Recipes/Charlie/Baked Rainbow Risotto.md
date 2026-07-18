@@ -3,6 +3,8 @@ title: Baked Rainbow Risotto
 parent: Recipes
 layout: default
 ---
+# Baked Rainbow Risotto
+
 Serves: 4
 ## Ingredients
 4 cups vegetable stock

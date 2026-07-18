@@ -3,7 +3,6 @@ title: No-Soak Quinoa Bircher
 parent: Recipes
 layout: default
 ---
-
 # No-Soak Quinoa Bircher
 
 > GF | WF | EF | V

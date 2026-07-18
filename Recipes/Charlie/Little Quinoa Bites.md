@@ -3,7 +3,6 @@ title: Little Quinoa Bites
 parent: Recipes
 layout: default
 ---
-
 # Little Quinoa Bites
 
 > Soft Finger Foods

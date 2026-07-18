@@ -3,7 +3,6 @@ title: Coconut Muffins with a Twist
 parent: Recipes
 layout: default
 ---
-
 # Coconut Muffins with a Twist
 
 > Healthy Snacks

@@ -3,7 +3,6 @@ title: Chicken and Mushroom Bolognese
 parent: Recipes
 layout: default
 ---
-
 # Chicken and Mushroom Bolognese
 
 > Textured Meals

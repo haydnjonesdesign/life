@@ -3,7 +3,6 @@ title: Corn Fritters with Avocado Salsa
 parent: Recipes
 layout: default
 ---
-
 # Corn Fritters with Avocado Salsa
 
 > Finger-Food Breakfasts

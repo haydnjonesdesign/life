@@ -3,6 +3,8 @@ title: Savoury muffins
 parent: Recipes
 layout: default
 ---
+# Savoury muffins
+
 Under 30 mins
 
 **Ingredients**

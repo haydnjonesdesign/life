@@ -3,6 +3,7 @@ title: Ricotta gnocchi
 parent: Recipes
 layout: default
 ---
+# Ricotta gnocchi
 
 Under 15 mins
 

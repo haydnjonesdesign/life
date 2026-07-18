@@ -3,6 +3,8 @@ title: Cannellini bean mini muffins
 parent: Recipes
 layout: default
 ---
+# Cannellini bean mini muffins
+
 Under 30 mins
 
 **Ingredients**

@@ -3,6 +3,7 @@ title: Beef Burgers
 parent: Recipes
 layout: default
 ---
+# Beef Burgers
 ## Ingredients
 500g mince beef
 1 egg

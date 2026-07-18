@@ -3,6 +3,8 @@ title: Beef, veggie and quinoa mash
 parent: Recipes
 layout: default
 ---
+# Beef, veggie and quinoa mash
+
 MAKES 4 CUPS (720 G)
 PREP TIME 10 minutes
 COOKING TIME 20 minutes

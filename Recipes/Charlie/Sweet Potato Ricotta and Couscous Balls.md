@@ -4,6 +4,8 @@ parent: Recipes
 layout: default
 ---
 
+# Sweet Potato Ricotta and Couscous Balls
+
 Under 30 mins
 
 This is another favourite recipe across all of the Mealtimes programs. To mix things up, you can also add tinned tuna, fresh herbs, different grated vegetables, or peas and corn. You could also shape these into patties and serve as a vegetarian burger.

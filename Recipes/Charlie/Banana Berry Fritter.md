@@ -3,6 +3,8 @@ title: Banana Berry Fritter
 parent: Recipes
 layout: default
 ---
+# Banana Berry Fritter
+
 Under 15 mins
 
 ==**DOUBLE**==

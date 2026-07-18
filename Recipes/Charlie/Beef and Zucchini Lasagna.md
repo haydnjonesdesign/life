@@ -3,9 +3,9 @@ title: Beef and Zucchini Lasagna
 parent: Recipes
 layout: default
 ---
+# Beef and Zucchini Lasagna
 
 Serves: 4
-
 ## Ingredents
 
 1 brown onion, halved
