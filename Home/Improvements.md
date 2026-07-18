@@ -1,4 +1,9 @@
-# For Glenn
+---
+title: Improvements
+parent: Overview
+layout: default
+---
+# Todo
 - [x] Hammer chicken wire back in ✅ 2026-07-18
 - [x] Add timber to Charlies climbing frame ✅ 2026-07-18
 - [x] Secure curtain cord ✅ 2026-07-18
@@ -14,5 +19,4 @@
 - [ ] Study window rope
 - [ ] Move Rose bush
 - [ ] Flip Charlie's door?
-# For Kate
 - [ ] Decal internal window, approx 1850Wx1500Hmm example [Product 1](https://www.bunnings.com.au/pillar-1-2-x-2-4m-security-adhesive-window-film_p3962497) [Product 2](https://www.3m.com.au/3M/en_AU/p/dc/v000240345/)
