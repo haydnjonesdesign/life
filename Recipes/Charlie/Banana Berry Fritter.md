@@ -5,7 +5,7 @@ layout: default
 ---
 Under 15 mins
 
-**DOUBLE**
+==**DOUBLE**==
 
 **Ingredients**
 - 1 medium banana _mashed_
