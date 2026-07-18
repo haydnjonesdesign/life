@@ -3,6 +3,7 @@ title: SUBO On the go breakfast bottle
 parent: Recipes
 layout: default
 ---
+
 This on-the-go breakfast bottle provides an easy solution to busy mornings. When made using cow’s milk or fortified soy milk this wholegrain breakfast is high in protein and fat to keep your child sustained for the day ahead, as well as a source of fibre and calcium.  
   
 Difficulty: Easy | Serves: 1 Subo bottle | Prep: 5 mins  

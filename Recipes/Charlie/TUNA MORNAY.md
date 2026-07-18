@@ -1,3 +1,9 @@
+---
+title: Turkey and Cauliflower Tots
+parent: Recipes
+layout: default
+---
+
 SERVES 4
 
 ## Ingredients

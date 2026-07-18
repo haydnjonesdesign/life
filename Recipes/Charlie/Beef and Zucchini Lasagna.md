@@ -1,3 +1,9 @@
+---
+title: Beef and Zucchini Lasagna
+parent: Recipes
+layout: default
+---
+
 Serves: 4
 
 ## Ingredents
@@ -7,7 +13,7 @@ Serves: 4
 2 stalks celery, halved
 3 cloves garlic
 1 tablespoon extra-virgin olive oil
-500 g lamb mince
+500 g beed mince
 700 g tomato passata
 3 tablespoons low-salt tomato paste
 1 tablespoon chopped fresh oregano (or dried is fine)
